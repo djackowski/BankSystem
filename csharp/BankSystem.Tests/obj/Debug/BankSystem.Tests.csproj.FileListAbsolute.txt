@@ -1,0 +1,14 @@
+C:\Users\Patryk\Documents\BankSystem\BankSystem.Tests\bin\Debug\BankSystem.Tests.dll
+C:\Users\Patryk\Documents\BankSystem\BankSystem.Tests\bin\Debug\BankSystem.Tests.pdb
+C:\Users\Patryk\Documents\BankSystem\BankSystem.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Patryk\Documents\BankSystem\BankSystem.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Patryk\Documents\BankSystem\BankSystem.Tests\obj\Debug\BankSystem.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Patryk\Documents\BankSystem\BankSystem.Tests\obj\Debug\BankSystem.Tests.dll
+C:\Users\Patryk\Documents\BankSystem\BankSystem.Tests\obj\Debug\BankSystem.Tests.pdb
+C:\Users\Patryk\Documents\BankSystem\csharp\BankSystem.Tests\bin\Debug\BankSystem.Tests.dll
+C:\Users\Patryk\Documents\BankSystem\csharp\BankSystem.Tests\bin\Debug\BankSystem.Tests.pdb
+C:\Users\Patryk\Documents\BankSystem\csharp\BankSystem.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Patryk\Documents\BankSystem\csharp\BankSystem.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Patryk\Documents\BankSystem\csharp\BankSystem.Tests\obj\Debug\BankSystem.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Patryk\Documents\BankSystem\csharp\BankSystem.Tests\obj\Debug\BankSystem.Tests.dll
+C:\Users\Patryk\Documents\BankSystem\csharp\BankSystem.Tests\obj\Debug\BankSystem.Tests.pdb
